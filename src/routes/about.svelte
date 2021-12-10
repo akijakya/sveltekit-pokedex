@@ -1,3 +1,6 @@
+<script>
+    
+</script>
 <svelte:head>
     <title>About the SvelteKit Pokedex</title>
 </svelte:head>
