@@ -8,3 +8,10 @@
 
 <!-- This slot is needed so it can display the page components as children -->
 <slot />
+
+<style>
+/* base components and utilities from Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+</style>
